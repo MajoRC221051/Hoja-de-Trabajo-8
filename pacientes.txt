@@ -1,0 +1,10 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Ana López, fiebre, D
+Carlos Méndez, infarto, A
+Sofía Castro, neumonía, B
+Pablo Rojas, dolor de espalda, D
+Daniela Ruiz, convulsiones, B
+Marco Antonio, brazo roto, C
